@@ -1,6 +1,6 @@
 PyGithub>=1.34 # Compatible with 3.6 after 1.34
 GitPython==2.1.5
-requests
+requests==2.18.1
 nose
 mistune
 pyyaml
